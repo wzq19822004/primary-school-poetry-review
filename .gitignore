@@ -1,0 +1,5 @@
+.workbuddy/
+__pycache__/
+*.pyc
+.DS_Store
+小学古诗词复习清单.html
